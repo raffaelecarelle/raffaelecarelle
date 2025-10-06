@@ -17,3 +17,7 @@ I'm also a contributor to [Symfony](https://github.com/symfony/symfony) and [Sho
 - [Github](https://github.com/raffaelecarelle)  
 - [LinkedIn](https://www.linkedin.com/in/raffaele-carelle-37278a123/)  
 - <a href="mailto=raffaele.carelle@algoritma.it" alt="raffaele.carelle@algoritma.it">raffaele.carelle@algoritma.it</a>
+
+---
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaelecarelle)](https://github.com/anuraghazra/github-readme-stats)
